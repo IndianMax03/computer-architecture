@@ -26,12 +26,17 @@ todo
 
 ---
 
-> **Выполнил**: Тучков Максим Русланович
->> **Группа**: P33121
+> **Выполнил**
+>> Тучков Максим Русланович
 > 
-> **Преподаватель практики**: Горбачёв Ярослав Георгиевич
+> **Группа**
+>> P33121
 > 
-> **Лектор**: [Пенской Александр Владимирович](https://github.com/ryukzak)
+> **Преподаватель практики**
+>> Горбачёв Ярослав Георгиевич
+> 
+> **Лектор**:
+>> [Пенской Александр Владимирович](https://github.com/ryukzak)
 > 
 > **Список источников**:
 >> 1. https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
@@ -52,3 +57,6 @@ todo
 >> 16. https://habr.com/ru/news/743140/
 >> 17. https://habr.com/ru/news/743268/
 >> 18. https://habr.com/ru/articles/429602/
+>
+> Ссылка на презентацию:
+>> https://docs.google.com/presentation/d/1oxQBI1k8BPWqDZkAppSXk87uJE-e102r74HFHjmC6w4/edit?usp=sharing
